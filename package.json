@@ -1,7 +1,8 @@
 {
+  "homepage": "https://nadiamariduena.github.io/portfolio-insta/.",
   "name": "react-insta-native",
   "version": "1.0.0",
-  "description": "",
+  "description": "replica insta but not really",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
@@ -9,7 +10,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "author": "",
+  "author": "melissa murillo",
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.14.1",
