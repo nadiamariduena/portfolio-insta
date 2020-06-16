@@ -1,0 +1,113 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: goldenrod;
+  overflow-x: hidden;
+
+  header {
+    width: 100vw;
+    min-height: 3vh;
+    padding: 20px 10px;
+    background-color: white;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    .logo {
+      //   margin: 0 0 0 100px;
+      font-family: monospace;
+      text-transform: uppercase;
+      letter-spacing: 15px;
+    }
+
+    input {
+      width: 220px;
+      height: 25px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: rgb(189, 189, 189);
+      margin-left: 40px;
+    }
+
+    nav {
+      ul {
+        list-style: none;
+        li {
+          display: inline;
+          margin: 0 10px 0 20px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 0.9rem;
+
+          a {
+            text-decoration: none;
+            color: #333;
+            text-transform: uppercase;
+            &:hover {
+              color: rgb(31, 0, 207);
+            }
+          }
+        }
+      }
+    }
+  }
+  //   ------------------
+  //   ------------------
+  //   ------------------
+  // images container
+
+  .middle-section {
+    padding: 30px 0;
+
+    background-color: rgb(255, 203, 203);
+    height: 100vh;
+
+    .container-images {
+      padding: 5em 10em;
+      display: grid;
+      grid-gap: 1em;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      // the auto fit will make it adaptable to the device.
+      // the minmax means that the box will always keep that size, unless i change it.
+      // if you dont add the fraction, leaving alone the 250px, the box will occupy the 100% width, but using the fraction will put it in 2 rows.
+      background-color: rgb(235, 235, 235);
+
+      .quote {
+        padding: 5px;
+        background-color: rgb(161, 137, 179);
+
+        p {
+          width: 50%;
+          font-size: 0.9rem;
+          text-align: left;
+          line-height: 18px;
+          letter-spacing: 1px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: 100;
+          color: #6e6e6e;
+          word-spacing: 5px;
+        }
+
+        .img-box {
+          width: 100%;
+          padding-bottom: 15px;
+
+          img {
+            width: 100%;
+            min-height: auto;
+            object-fit: cover;
+          }
+        }
+      }
+    }
+  }
+  //
+}
