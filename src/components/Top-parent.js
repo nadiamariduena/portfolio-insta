@@ -9,10 +9,11 @@ class TopParent extends Component {
           <div className="topOne"></div>
           <div className="topTwo">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ab
-              doloribus voluptate. Explicabo tempore iure voluptates! Dicta,
-              ullam voluptates nesciunt tenetur corrupti, nisi possimus, quae
-              perferendis laborum delectus itaque odio?
+              James Turrell is an American artist primarily concerned with Light
+              and Space. Turrell was a MacArthur Fellow in 1984. Turrell is best
+              known for his work in progress, Roden Crater, a natural cinder
+              cone crater located outside Flagstaff, Arizona, that he is turning
+              into a massive naked-eye observatory.
             </p>
           </div>
         </div>

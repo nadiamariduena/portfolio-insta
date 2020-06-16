@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-insta/static/css/main.6b0fdc23.chunk.css",
-    "main.js": "/portfolio-insta/static/js/main.027a13b1.chunk.js",
-    "main.js.map": "/portfolio-insta/static/js/main.027a13b1.chunk.js.map",
+    "main.css": "/portfolio-insta/static/css/main.97d7d006.chunk.css",
+    "main.js": "/portfolio-insta/static/js/main.c4a3b6e5.chunk.js",
+    "main.js.map": "/portfolio-insta/static/js/main.c4a3b6e5.chunk.js.map",
     "runtime-main.js": "/portfolio-insta/static/js/runtime-main.7115e4ba.js",
     "runtime-main.js.map": "/portfolio-insta/static/js/runtime-main.7115e4ba.js.map",
     "static/js/2.2f7ee11f.chunk.js": "/portfolio-insta/static/js/2.2f7ee11f.chunk.js",
     "static/js/2.2f7ee11f.chunk.js.map": "/portfolio-insta/static/js/2.2f7ee11f.chunk.js.map",
     "index.html": "/portfolio-insta/index.html",
-    "precache-manifest.6a870fcbc30b771034ded0b797f63187.js": "/portfolio-insta/precache-manifest.6a870fcbc30b771034ded0b797f63187.js",
+    "precache-manifest.e4b1d96dc40c2bababc7565ccdc11483.js": "/portfolio-insta/precache-manifest.e4b1d96dc40c2bababc7565ccdc11483.js",
     "service-worker.js": "/portfolio-insta/service-worker.js",
-    "static/css/main.6b0fdc23.chunk.css.map": "/portfolio-insta/static/css/main.6b0fdc23.chunk.css.map",
-    "static/js/2.2f7ee11f.chunk.js.LICENSE.txt": "/portfolio-insta/static/js/2.2f7ee11f.chunk.js.LICENSE.txt"
+    "static/css/main.97d7d006.chunk.css.map": "/portfolio-insta/static/css/main.97d7d006.chunk.css.map",
+    "static/js/2.2f7ee11f.chunk.js.LICENSE.txt": "/portfolio-insta/static/js/2.2f7ee11f.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/portfolio-insta/static/media/turrel.aee1a576.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7115e4ba.js",
     "static/js/2.2f7ee11f.chunk.js",
-    "static/css/main.6b0fdc23.chunk.css",
-    "static/js/main.027a13b1.chunk.js"
+    "static/css/main.97d7d006.chunk.css",
+    "static/js/main.c4a3b6e5.chunk.js"
   ]
 }
