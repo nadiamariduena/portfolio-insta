@@ -11,7 +11,7 @@ class PostList extends Component {
             {PostTest.map((postDetail, index) => {
               return (
                 <div className="quote">
-                  <h1>{postDetail.title}</h1>
+                  <h4>{postDetail.title}</h4>
                   <p>{postDetail.content}</p>
                   <img src={postDetail.image} className="img-box" />
                 </div>

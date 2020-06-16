@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-insta/static/css/main.068758a0.chunk.css",
-    "main.js": "/portfolio-insta/static/js/main.da896aa7.chunk.js",
-    "main.js.map": "/portfolio-insta/static/js/main.da896aa7.chunk.js.map",
+    "main.css": "/portfolio-insta/static/css/main.e43ce8ee.chunk.css",
+    "main.js": "/portfolio-insta/static/js/main.bdfb1ecc.chunk.js",
+    "main.js.map": "/portfolio-insta/static/js/main.bdfb1ecc.chunk.js.map",
     "runtime-main.js": "/portfolio-insta/static/js/runtime-main.7115e4ba.js",
     "runtime-main.js.map": "/portfolio-insta/static/js/runtime-main.7115e4ba.js.map",
     "static/js/2.2f7ee11f.chunk.js": "/portfolio-insta/static/js/2.2f7ee11f.chunk.js",
     "static/js/2.2f7ee11f.chunk.js.map": "/portfolio-insta/static/js/2.2f7ee11f.chunk.js.map",
     "index.html": "/portfolio-insta/index.html",
-    "precache-manifest.a359139ba75d738f8fedc051059b477d.js": "/portfolio-insta/precache-manifest.a359139ba75d738f8fedc051059b477d.js",
+    "precache-manifest.1e37a7d8b06db125bc73d02af3be2da9.js": "/portfolio-insta/precache-manifest.1e37a7d8b06db125bc73d02af3be2da9.js",
     "service-worker.js": "/portfolio-insta/service-worker.js",
-    "static/css/main.068758a0.chunk.css.map": "/portfolio-insta/static/css/main.068758a0.chunk.css.map",
+    "static/css/main.e43ce8ee.chunk.css.map": "/portfolio-insta/static/css/main.e43ce8ee.chunk.css.map",
     "static/js/2.2f7ee11f.chunk.js.LICENSE.txt": "/portfolio-insta/static/js/2.2f7ee11f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7115e4ba.js",
     "static/js/2.2f7ee11f.chunk.js",
-    "static/css/main.068758a0.chunk.css",
-    "static/js/main.da896aa7.chunk.js"
+    "static/css/main.e43ce8ee.chunk.css",
+    "static/js/main.bdfb1ecc.chunk.js"
   ]
 }
