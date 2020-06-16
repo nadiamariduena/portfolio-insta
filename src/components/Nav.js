@@ -26,20 +26,18 @@ class Nav extends Component {
     return (
       <header>
         <h2 className="logo">logo</h2>
-        <input placeholder="write something"></input>
+        <input spellcheck="false" placeholder="Search"></input>
         <nav>
+          {/* --------------------------- */}
           <ul>
             {this.state.links.map((link) => (
               <li>
-                {/*
-            ASK about this, its important!!
-
-            https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-target-blank.md */}
                 <a href={link.target} target="_blank">
                   {link.label}
                 </a>
               </li>
             ))}
+            {/* --------------------------- */}
           </ul>
         </nav>
       </header>
@@ -48,3 +46,7 @@ class Nav extends Component {
 }
 
 export default Nav;
+//  {/*
+//             ASK about this, its important!!
+
+//             https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-target-blank.md */}
