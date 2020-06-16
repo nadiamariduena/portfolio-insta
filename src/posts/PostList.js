@@ -13,7 +13,7 @@ class PostList extends Component {
                 <div className="quote">
                   <h1>{postDetail.title}</h1>
                   <p>{postDetail.content}</p>
-                  <img className="img-box">{postDetail.image}</img>
+                  <img src={postDetail.image} className="img-box" />
                 </div>
               );
             })}

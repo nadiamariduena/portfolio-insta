@@ -3,60 +3,60 @@
     "id": "1",
     "title": "heheeh 1",
     "content": "lorem ipsum ..... test 1",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "https://gamespot1.cbsistatic.com/uploads/original/43/434805/3651981-untitled-1.jpg"
   },
   {
     "id": "2",
     "title": "hahaha 2",
     "content": "lorem ipsum .....test 2",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqnFBdgVzne1EZ8cFYTjv7AW-DOzVh3kSFi4LEcJJXV4rZG8FL&usqp=CAU"
   },
   {
     "id": "3",
     "title": "hahaha 3",
     "content": "lorem ipsum .....test 3",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   },
   {
     "id": "4",
     "title": "hahaha 4",
     "content": "lorem ipsum .....test 4",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   },
   {
     "id": "5",
     "title": "hahaha 5",
     "content": "lorem ipsum .....test 5",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   },
   {
     "id": "6",
     "title": "heheeh 6",
     "content": "lorem ipsum ..... test 6",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   },
   {
     "id": "7",
     "title": "hahaha 7",
     "content": "lorem ipsum .....test 7",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   },
   {
     "id": "8",
     "title": "hahaha 8",
     "content": "lorem ipsum .....test 8",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   },
   {
     "id": "9",
     "title": "hahaha 9",
     "content": "lorem ipsum .....test 9",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   },
   {
     "id": "10",
     "title": "hahaha 10",
     "content": "lorem ipsum .....test 10",
-    " image": "./img-sm/the400blows_Truffaut.jpg"
+    "image": "../img-sm/the400blows_Truffaut.jpg"
   }
 ]

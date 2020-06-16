@@ -65,10 +65,9 @@ body {
   // images container
 
   .middle-section {
+    width: 100vw;
     padding: 30px 0;
-
     background-color: rgb(255, 203, 203);
-    height: 100vh;
 
     .container-images {
       padding: 5em 10em;
@@ -97,8 +96,7 @@ body {
         }
 
         .img-box {
-          width: 100%;
-          padding-bottom: 15px;
+          width: 50%;
 
           img {
             width: 100%;
