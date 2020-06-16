@@ -5,17 +5,34 @@ class TopParent extends Component {
   render() {
     return (
       <div className="TopSection">
-        <h1>I am the parent</h1>
+        <div className="wrapperTop">
+          <div className="topOne"></div>
+          <div className="topTwo">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ab
+              doloribus voluptate. Explicabo tempore iure voluptates! Dicta,
+              ullam voluptates nesciunt tenetur corrupti, nisi possimus, quae
+              perferendis laborum delectus itaque odio?
+            </p>
+          </div>
+        </div>
+        {/* ------------------------ */}
+
         {/* The child component is rendered in the parent component , so here in this page */}
-        <h3>
-          <TopChild text="i am the 1 child" />
-        </h3>
-        <h3>
-          <TopChild text="i am the 2 child" />
-        </h3>
-        <h3>
-          <TopChild text="i am the 3 child" />
-        </h3>
+
+        <div className="wrapperBalls">
+          <div className="topBall one">
+            <TopChild box="A" />
+          </div>
+
+          <div className="topBall two">
+            <TopChild box="B" />
+          </div>
+          <div className="topBall three">
+            <TopChild box="C" />
+          </div>
+        </div>
+        {/* ----------------------- */}
       </div>
     );
   }
